@@ -6,7 +6,7 @@ Feito como desafio prático de programação, com foco em consumo de API, JSON e
 ---
 
 ## 🚀 Tecnologias
-- ☕ **Java 17+**
+- ☕ **Java 21**
 - 🧩 **Maven**
 - 🌐 **HttpClient (Java 11+)**
 - 🧠 **Gson** — para ler o JSON da API
